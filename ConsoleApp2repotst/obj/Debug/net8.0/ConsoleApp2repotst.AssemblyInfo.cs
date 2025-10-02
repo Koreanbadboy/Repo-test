@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleApp2repotst")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb068e987d90986ac1f739afb0b036daef8329a6")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleApp2repotst")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleApp2repotst")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
