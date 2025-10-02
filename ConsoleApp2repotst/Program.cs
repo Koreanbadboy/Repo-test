@@ -91,7 +91,7 @@ class Program
         Console.WriteLine("\nPrisintervaller:");
         foreach (var interval in priceIntervals)
         {
-            Console.WriteLine($"Intervall: {interval.Interval} SEK - Antal artiklar: {interval.Count}");
+            Console.WriteLine($"Intervall: {interval.Interval} SEK - Antal artikel: {interval.Count}");
         }
     
     }
